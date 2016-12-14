@@ -485,6 +485,12 @@ body {
 .content a.icon:hover {
   color: #d480aa;
 }
+.content a > img {
+  opacity: 0.75;
+}
+.content a > img:hover {
+  opacity: 1;
+}
 .content h1 a,
 .content .h1 a,
 .content h2 a,
